@@ -3,7 +3,7 @@ Implementation of the method described in the paper "Sleeping Beauties in Comput
 
 **sleepingBeauty.py** is used for finding the ids of sleeping beauties from a given corpus.
 
-###How to Run
+### How to Run
 *python sleepingBeauty.py <inputFile>*
 
 where **inputFile** contains the citation profile of papers in the form:
